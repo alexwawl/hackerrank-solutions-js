@@ -1,5 +1,5 @@
 # hackerrank-solutions-js
-Hackerrank Solution: javascript
+Hackerrank Solutions: javascript
 
 | Problem Name  | Description   | Difficulty |
 | ------------- | ------------- | ---------- |
